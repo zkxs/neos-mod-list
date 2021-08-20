@@ -4,5 +4,6 @@
 - [SsaoDisable](https://github.com/zkxs/SsaoDisable) - Disables SSAO for all of your cameras, including your view
 - [ExportNeosToJson](https://github.com/zkxs/ExportNeosToJson) - Lets you export Neos objects as their native format
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
+- [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
 
 If you have more items for the list, either reach out to me or open a PR.
