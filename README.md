@@ -7,6 +7,7 @@
 - [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
 - [NeosTrackerIdStabilizer](https://github.com/zkxs/NeosTrackerIdStabilizer) - Restores Vive tracker names to their old LHR-whatever behavior
 - [ExposeAllImpulses](https://github.com/EIA485/NeosExposeAllImpulses) - Exposes all valid logix impulse targets
+- [BetterLogixWires](https://github.com/EIA485/NeosBetterLogixWires) - Optimizes the rendering of logix wires
 - [FixToString](https://github.com/EIA485/NeosFixToString) - Fixes the to string logix node
 - [KillDesktopTools](https://github.com/EIA485/NeosKillDesktopTools) - Disables the desktop tool keybinds
 - [AnyShaderAnywhere](https://github.com/EIA485/NeosAnyShaderAnywhere) - Lets you use any StaticShader in any Material
