@@ -13,6 +13,11 @@
 - [AnyShaderAnywhere](https://github.com/EIA485/NeosAnyShaderAnywhere) - Lets you use any StaticShader in any Material
 - [KillLogSpam](https://github.com/EIA485/NeosKillLogSpam) - Kills the log spam normally caused by changing world configuration
 - [Cheese4All](https://github.com/EIA485/NeosCheese4All) - Enables the top secret cheese mode
-- [FixInspectorMisalign](https://github.com/art0007i/FixInspectorMisalign) - Fixes misaligned fields in the inspector. (float3, color, etc.)
+- [FixInspectorMisalign](https://github.com/art0007i/FixInspectorMisalign) - Fixes misaligned fields in the inspector (float3, color, etc.)
+- [ShowDelegates](https://github.com/art0007i/ShowDelegates) - Shows delegates in inspectors
+- [ShowDriveSource](https://github.com/art0007i/ShowDriveSource) - Allows viewing what a field is driven by
+- [ColorDrop](https://github.com/art0007i/ColorDrop) - Makes it so you can grab and drop colors
+- [ShowComponentSlot](https://github.com/art0007i/ShowComponentSlot) - Allows you to open the slot that a component is attached to in component inspectors
+- [NoHeadMenuDash](https://github.com/art0007i/NoHeadMenuDash) - Removes the gesture that opens the dash when you press the menu button near your head
 
 If you have more items for the list, either reach out to me or open a PR.
