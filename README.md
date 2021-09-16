@@ -26,7 +26,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ColorDrop](https://github.com/art0007i/ColorDrop) - Makes it so you can grab and drop colors
 - [ShowComponentSlot](https://github.com/art0007i/ShowComponentSlot) - Allows you to open the slot that a component is attached to in component inspectors
 - [InspectorScroll](https://github.com/art0007i/InspectorScroll) - Allows you to scroll inspector panels using the thumbstick / touchpad
-- [MoreReferenceProxies](https://github.com/EIA485/NeosMoreReferenceProxies) - adds reference proxy sources to bag editors and list editors
+- [MoreReferenceProxies](https://github.com/EIA485/NeosMoreReferenceProxies) - Adds reference proxy sources to bag editors and list editors
 
 ## Keybinds & Gestures
 - [KillDesktopTools](https://github.com/EIA485/NeosKillDesktopTools) - Disables the desktop tool keybinds
