@@ -25,13 +25,13 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ShowDriveSource](https://github.com/art0007i/ShowDriveSource) - Allows viewing what a field is driven by
 - [ColorDrop](https://github.com/art0007i/ColorDrop) - Makes it so you can grab and drop colors
 - [ShowComponentSlot](https://github.com/art0007i/ShowComponentSlot) - Allows you to open the slot that a component is attached to in component inspectors
-- [InspectorScroll](https://github.com/art0007i/InspectorScroll) - Allows you to scroll inspector panels using the thumbstick / touchpad
 - [MoreReferenceProxies](https://github.com/EIA485/NeosMoreReferenceProxies) - Adds reference proxy sources to bag editors and list editors
 
 ## Keybinds & Gestures
 - [KillDesktopTools](https://github.com/EIA485/NeosKillDesktopTools) - Disables the desktop tool keybinds
 - [NoHeadMenuDash](https://github.com/art0007i/NoHeadMenuDash) - Removes the gesture that opens the dash when you press the menu button near your head
 - [NoEscape](https://github.com/zkxs/NoEscape) - Removes the emergency respawn gesture
+- [InspectorScroll](https://github.com/art0007i/InspectorScroll) - Allows you to scroll inspector panels using the thumbstick / touchpad
 
 ## Misc
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
