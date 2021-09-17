@@ -31,7 +31,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [KillDesktopTools](https://github.com/EIA485/NeosKillDesktopTools) - Disables the desktop tool keybinds
 - [NoHeadMenuDash](https://github.com/art0007i/NoHeadMenuDash) - Removes the gesture that opens the dash when you press the menu button near your head
 - [NoEscape](https://github.com/zkxs/NoEscape) - Removes the emergency respawn gesture
-- [InspectorScroll](https://github.com/art0007i/InspectorScroll) - Allows you to scroll inspector panels using the thumbstick / touchpad
+- [InspectorScroll](https://github.com/art0007i/InspectorScroll) - Allows you to scroll UIX panels (including inspectors) using the thumbstick / touchpad
 
 ## Misc
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
