@@ -40,4 +40,5 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 
 ## Memes
 - [Cheese4All](https://github.com/EIA485/NeosCheese4All) - Enables the top secret cheese mode
+- [Fools](https://github.com/EIA485/NeosFools) - Forces April Fools mode.
 - [YouWantDarkmode?](https://github.com/EIA485/NeosYouWantDarkmode) - makes **everything** dark mode
