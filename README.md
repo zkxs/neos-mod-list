@@ -18,6 +18,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 ### Logix
 - [FixToString](https://github.com/EIA485/NeosFixToString) - Fixes the to string logix node
 - [ExposeAllImpulses](https://github.com/EIA485/NeosExposeAllImpulses) - Exposes all valid logix impulse targets
+- [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) - Stops reference nodes from killing themselves.
 
 ### Inspectors
 - [FixInspectorMisalign](https://github.com/art0007i/FixInspectorMisalign) - Fixes misaligned fields in the inspector (float3, color, etc.)
