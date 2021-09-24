@@ -38,10 +38,10 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
 - [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
 - [NeosTrackerIdStabilizer](https://github.com/zkxs/NeosTrackerIdStabilizer) - Restores Vive tracker names to their old LHR-whatever behavior
-- [PasteInvidious](https://github.com/art0007i/PasteInvidious) - Changes all pasted youtube links to [invidious](https://github.com/iv-org/invidious) links.
+- [PasteInvidious](https://github.com/art0007i/PasteInvidious) - Changes all pasted youtube links to [invidious](https://github.com/iv-org/invidious) links
 
 ## Memes
 - [Cheese4All](https://github.com/EIA485/NeosCheese4All) - Enables the top secret cheese mode
-- [Fools](https://github.com/EIA485/NeosFools) - Forces April Fools mode.
-- [ShowHiddenNodes](https://github.com/EIA485/NeosShowHiddenNodes) - Shows hidden nodes in the node browser.
+- [Fools](https://github.com/EIA485/NeosFools) - Forces April Fools mode
+- [ShowHiddenNodes](https://github.com/EIA485/NeosShowHiddenNodes) - Shows hidden nodes in the node browser
 - [YouWantDarkmode?](https://github.com/EIA485/NeosYouWantDarkmode) - makes **everything** dark mode
