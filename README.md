@@ -42,6 +42,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NoSteam](https://github.com/EIA485/NeosNoSteam) - Partially stops neos from connecting to steam
 
 ## Memes
+- [ToolshelfAnarchy](https://github.com/art0007i/ToolshelfAnarchy) - Allows you to take and put tools on other peoples toolshelves
 - [Cheese4All](https://github.com/EIA485/NeosCheese4All) - Enables the top secret cheese mode
 - [Fools](https://github.com/EIA485/NeosFools) - Forces April Fools mode
 - [ShowHiddenNodes](https://github.com/EIA485/NeosShowHiddenNodes) - Shows hidden nodes in the node browser
