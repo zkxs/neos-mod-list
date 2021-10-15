@@ -44,6 +44,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 ## Memes
 - [ToolshelfAnarchy](https://github.com/art0007i/ToolshelfAnarchy) - Allows you to take and put tools on other peoples toolshelves
 - [Cheese4All](https://github.com/EIA485/NeosCheese4All) - Enables the top secret cheese mode
+- [DeZomp4All](https://github.com/EIA485/NeosDeZomp4All) - Shows the hidden DeZomp
 - [Fools](https://github.com/EIA485/NeosFools) - Forces April Fools mode
 - [ShowHiddenNodes](https://github.com/EIA485/NeosShowHiddenNodes) - Shows hidden nodes in the node browser
 - [YouWantDarkmode?](https://github.com/EIA485/NeosYouWantDarkmode) - makes **everything** dark mode
