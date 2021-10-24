@@ -1,6 +1,6 @@
 # Neos Mods
 
-A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. If you have more items for the list, either reach out to me or open a PR.
+A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. If you have more items for the list, either reach out to me or open a PR. If you want to get update notifications join [our Discord](https://discord.gg/vCDJK9xyvm).
 
 ## Optimization
 - [BetterLogixWires](https://github.com/EIA485/NeosBetterLogixWires) - Optimizes the rendering of logix wires
