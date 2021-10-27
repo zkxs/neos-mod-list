@@ -21,7 +21,6 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) - Stops reference nodes from killing themselves.
 
 ### Inspectors
-- [FixInspectorMisalign](https://github.com/art0007i/FixInspectorMisalign) - Fixes misaligned fields in the inspector (float3, color, etc.)
 - [ShowDelegates](https://github.com/art0007i/ShowDelegates) - Shows delegates in inspectors
 - [ShowDriveSource](https://github.com/art0007i/ShowDriveSource) - Allows viewing what a field is driven by
 - [ColorDrop](https://github.com/art0007i/ColorDrop) - Makes it so you can grab and drop colors
