@@ -15,6 +15,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ExportNeosToJson](https://github.com/zkxs/ExportNeosToJson) - Lets you export Neos objects as their native format
 - [ExtendCompatibility](https://github.com/EIA485/NeosExtendCompatibility) - Prevents crashing from invalid SyncMembers
 - [AnyShaderAnywhere](https://github.com/EIA485/NeosAnyShaderAnywhere) - Lets you use any StaticShader in any Material
+- [AllShadersValid](https://github.com/EIA485/NeosAllShadersValid) - Lets you use non neos sanctioned shaders
 - [ShowHiddenCategory](https://github.com/EIA485/NeosShowHiddenCategory) - Shows the hidden category
 
 ### Logix
