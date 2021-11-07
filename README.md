@@ -45,7 +45,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ExposePatchedMethods](https://github.com/EIA485/NeosExposePatchedMethods) - Exposes what mods you have loaded to your userspace
 - [CustomVideoPlayers](https://github.com/art0007i/CustomVideoPlayers) - Lets you change your default video player
 
-## Bugfixes
+## Bug Workarounds
 - [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) - Force libVLC to prevent crashes in Proton
 - [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) - Disable libVLC to prevent certain crashes
 
