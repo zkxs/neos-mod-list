@@ -47,6 +47,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 
 ## Bugfixes
 - [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) - Force libVLC to prevent crashes in Proton
+- [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) - Disable libVLC to prevent certain crashes
 
 ## Memes
 - [ToolshelfAnarchy](https://github.com/art0007i/ToolshelfAnarchy) - Allows you to take and put tools on other peoples toolshelves
