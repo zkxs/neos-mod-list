@@ -21,7 +21,8 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 ### Logix
 - [FixToString](https://github.com/EIA485/NeosFixToString) - Fixes the to string logix node
 - [ExposeAllImpulses](https://github.com/EIA485/NeosExposeAllImpulses) - Exposes all valid logix impulse targets
-- [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) - Stops reference nodes from killing themselves.
+- [NeosExposeAllSyncMembers](https://github.com/EIA485/NeosExposeAllSyncMembers) - Exposes all SyncMembers on interfaces
+- [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) - Stops reference nodes from killing themselves
 
 ### Inspectors
 - [ShowDelegates](https://github.com/art0007i/ShowDelegates) - Shows delegates in inspectors
