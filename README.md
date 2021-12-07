@@ -48,6 +48,9 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [CustomVideoPlayers](https://github.com/art0007i/CustomVideoPlayers) - Lets you change your default video player
 - [MessageCopy](https://github.com/rassi0429/MessageCopy) - Lets you copy msgs from dms
 
+## Hardware Integrations
+- [PimaxEyeTracker](https://github.com/dfgHiatus/NeosPimaxEyeTracker) - Integrates the Droolon Pi1 eye tracking module
+
 ## Bug Workarounds
 - [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) - Force libVLC to prevent crashes in Proton
 - [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) - Disable libVLC to prevent crashes in Windows
