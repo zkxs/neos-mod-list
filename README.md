@@ -52,6 +52,11 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) - Force libVLC to prevent crashes in Proton
 - [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) - Disable libVLC to prevent crashes in Windows
 
+## Mod Developers
+- [Generalized-Neos-EyeFace-API](https://github.com/dfgHiatus/Generalized-Neos-EyeFace-API) - A Template for making mods that intigrate eye/mouth tracking
+- [GenericSettings](https://github.com/Toxic-Cookie/GenericSettings) - Allows you to define, save, load and use custom settings
+- [TemplateMod](https://github.com/EIA485/NeosTemplate) - A template mod repo
+
 ## Memes
 - [ToolshelfAnarchy](https://github.com/art0007i/ToolshelfAnarchy) - Allows you to take and put tools on other peoples toolshelves
 - [Cheese4All](https://github.com/EIA485/NeosCheese4All) - Enables the top secret cheese mode
