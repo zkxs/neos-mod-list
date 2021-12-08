@@ -54,6 +54,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 ## Bug Workarounds
 - [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) - Force libVLC to prevent crashes in Proton
 - [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) - Disable libVLC to prevent crashes in Windows
+- [mixNmatch_lipsNmouth](https://github.com/dfgHiatus/mixNmatch_lipsNmouth) - Allows for differing makes and models of Eye and Face Trackers to operate together
 
 ## Mod Developers
 - [Generalized-Neos-EyeFace-API](https://github.com/dfgHiatus/Generalized-Neos-EyeFace-API) - A Template for making mods that intigrate eye/mouth tracking
