@@ -5,6 +5,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 ## Optimization
 - [BetterLogixWires](https://github.com/EIA485/NeosBetterLogixWires) - Optimizes the rendering of logix wires
 - [KillLogSpam](https://github.com/EIA485/NeosKillLogSpam) - Kills the log spam normally caused by changing world configuration
+- [CacheGetClapped](https://github.com/dfgHiatus/CacheGetClapped) - Deletes cached files that have been unused for over 21 days
 
 ## Visual Tweaks
 - [MotionBlurDisable](https://github.com/zkxs/MotionBlurDisable) - Disables motion blur for all of your cameras, including your view
@@ -56,7 +57,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) - Disable libVLC to prevent crashes in Windows
 - [mixNmatch_lipsNmouth](https://github.com/dfgHiatus/mixNmatch_lipsNmouth) - Allows for differing makes and models of Eye and Face Trackers to operate together
 
-## Mod Developers
+## For Mod Developers
 - [Generalized-Neos-EyeFace-API](https://github.com/dfgHiatus/Generalized-Neos-EyeFace-API) - A Template for making mods that intigrate eye/mouth tracking
 - [GenericSettings](https://github.com/Toxic-Cookie/GenericSettings) - Allows you to define, save, load and use custom settings
 - [TemplateMod](https://github.com/EIA485/NeosTemplate) - A template mod repo
