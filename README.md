@@ -10,7 +10,6 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 ## Visual Tweaks
 - [MotionBlurDisable](https://github.com/zkxs/MotionBlurDisable) - Disables motion blur for all of your cameras, including your view
 - [SsaoDisable](https://github.com/zkxs/SsaoDisable) - Disables SSAO for all of your cameras, including your view
-- [NeosContactsSort](https://github.com/zkxs/NeosContactsSort) - Sorts contacts Better™
 
 ## Technical Tweaks
 - [ExportNeosToJson](https://github.com/zkxs/ExportNeosToJson) - Lets you export Neos objects as their native format
@@ -43,13 +42,18 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
 - [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
 - [NeosTrackerIdStabilizer](https://github.com/zkxs/NeosTrackerIdStabilizer) - Restores Vive tracker names to their old LHR-whatever behavior
-- [PasteInvidious](https://github.com/art0007i/PasteInvidious) - Changes all pasted youtube links to [invidious](https://github.com/iv-org/invidious) links
 - [NoSteam](https://github.com/EIA485/NeosNoSteam) - Partially stops neos from connecting to steam
 - [ExposePatchedMethods](https://github.com/EIA485/NeosExposePatchedMethods) - Exposes what mods you have loaded to your userspace
-- [CustomVideoPlayers](https://github.com/art0007i/CustomVideoPlayers) - Lets you change your default video player
+
+## Dash Ui Tweaks
+- [NeosContactsSort](https://github.com/zkxs/NeosContactsSort) - Sorts contacts Better™
 - [MessageCopy](https://github.com/rassi0429/MessageCopy) - Lets you copy msgs from dms and creates a spwan orb button for session invites
 - [SessionTweaks](https://github.com/kazu0617/SessionTweaks) - Adds buttons for session orb / copy session uri to your contact's active sessions
+
+## Asset Importing Tweaks
 - [GifImporter](https://github.com/kawaiiamber/GifImporter) - Allows you to import gif images
+- [CustomVideoPlayers](https://github.com/art0007i/CustomVideoPlayers) - Lets you change your default video player
+- [PasteInvidious](https://github.com/art0007i/PasteInvidious) - Changes all pasted youtube links to [invidious](https://github.com/iv-org/invidious) links
 
 ## Hardware Integrations
 - [PimaxEyeTracker](https://github.com/dfgHiatus/NeosPimaxEyeTracker) - Integrates the Droolon Pi1 eye tracking module
