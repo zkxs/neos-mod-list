@@ -49,6 +49,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [CustomVideoPlayers](https://github.com/art0007i/CustomVideoPlayers) - Lets you change your default video player
 - [MessageCopy](https://github.com/rassi0429/MessageCopy) - Lets you copy msgs from dms and creates a spwan orb button for session invites
 - [SessionTweaks](https://github.com/kazu0617/SessionTweaks) - Adds buttons for session orb / copy session uri to your contact's active sessions
+- [GifImporter](https://github.com/kawaiiamber/GifImporter) - Allows you to import gif images
 
 ## Hardware Integrations
 - [PimaxEyeTracker](https://github.com/dfgHiatus/NeosPimaxEyeTracker) - Integrates the Droolon Pi1 eye tracking module
@@ -69,4 +70,4 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [DeZomp4All](https://github.com/EIA485/NeosDeZomp4All) - Shows the hidden DeZomp
 - [Fools](https://github.com/EIA485/NeosFools) - Forces April Fools mode
 - [ShowHiddenNodes](https://github.com/EIA485/NeosShowHiddenNodes) - Shows hidden nodes in the node browser
-- [YouWantDarkmode?](https://github.com/EIA485/NeosYouWantDarkmode) - makes **everything** dark mode
+- [YouWantDarkmode?](https://github.com/EIA485/NeosYouWantDarkmode) - Makes **everything** dark mode
