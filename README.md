@@ -47,8 +47,9 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 
 ## Dash Ui Tweaks
 - [NeosContactsSort](https://github.com/zkxs/NeosContactsSort) - Sorts contacts Better™
-- [MessageCopy](https://github.com/rassi0429/MessageCopy) - Lets you copy msgs from dms and creates a spwan orb button for session invites
-- [SessionTweaks](https://github.com/kazu0617/SessionTweaks) - Adds buttons for session orb / copy session uri to your contact's active sessions
+- [MessageCopy](https://github.com/rassi0429/MessageCopy) - Lets you copy msgs from dms
+- [SessionTweaks](https://github.com/kazu0617/SessionTweaks) - Adds buttons for session orb / copy session uri to your contact's tab
+- [3DDashOnScreen](https://github.com/rampa3/3DDashOnScreen) - replaces 2D overlay dash in Screen mode with the regular 3D one
 
 ## Asset Importing Tweaks
 - [GifImporter](https://github.com/kawaiiamber/GifImporter) - Allows you to import gif images
