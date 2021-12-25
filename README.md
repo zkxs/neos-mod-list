@@ -23,6 +23,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ExposeAllImpulses](https://github.com/EIA485/NeosExposeAllImpulses) - Exposes all valid logix impulse targets
 - [ExposeAllSyncMembers](https://github.com/EIA485/NeosExposeAllSyncMembers) - Exposes all SyncMembers on interfaces
 - [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) - Stops reference nodes from killing themselves
+- [DisableCustomConnectPoint](https://github.com/kazu0617/DisableCustomConnectPoint) - disables custom input/output attributes for LogiX nodes
 
 ### Inspectors
 - [ShowDelegates](https://github.com/art0007i/ShowDelegates) - Shows delegates in inspectors
