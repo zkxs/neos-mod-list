@@ -66,7 +66,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [mixNmatch_lipsNmouth](https://github.com/dfgHiatus/mixNmatch_lipsNmouth) - Allows for differing makes and models of Eye and Face Trackers to operate together
 
 ## For Mod Developers
-- [Generalized-Neos-EyeFace-API](https://github.com/dfgHiatus/Generalized-Neos-EyeFace-API) - A Template for making mods that intigrate eye/mouth tracking
+- [Generalized-Neos-EyeFace-API](https://github.com/dfgHiatus/Generalized-Neos-EyeFace-API) - A Template for making mods that integrate eye/mouth tracking
 - [GenericSettings](https://github.com/Toxic-Cookie/GenericSettings) - Allows you to define, save, load and use custom settings
 - [TemplateMod](https://github.com/EIA485/NeosTemplate) - A template mod repo
 
