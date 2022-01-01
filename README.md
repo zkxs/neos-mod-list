@@ -45,6 +45,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NeosTrackerIdStabilizer](https://github.com/zkxs/NeosTrackerIdStabilizer) - Restores Vive tracker names to their old LHR-whatever behavior
 - [NoSteam](https://github.com/EIA485/NeosNoSteam) - Partially stops neos from connecting to steam
 - [ExposePatchedMethods](https://github.com/EIA485/NeosExposePatchedMethods) - Exposes what mods you have loaded to your userspace
+- [NeosNoResetScale](https://github.com/zkxs/NeosNoResetScale) - Removes the "Reset Scale" context menu function
 
 ## Dash Ui Tweaks
 - [NeosContactsSort](https://github.com/zkxs/NeosContactsSort) - Sorts contacts Better™
