@@ -31,6 +31,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ColorDrop](https://github.com/art0007i/ColorDrop) - Makes it so you can grab and drop colors
 - [ShowComponentSlot](https://github.com/art0007i/ShowComponentSlot) - Allows you to open the slot that a component is attached to in component inspectors
 - [MoreReferenceProxies](https://github.com/EIA485/NeosMoreReferenceProxies) - Adds reference proxy sources to bag editors and list editors
+- [LocalSlotNames](https://github.com/EIA485/NeosLocalSlotNames) - Shows the local name of a slot in the hierarchy
 
 ## Keybinds & Gestures
 - [KillDesktopTools](https://github.com/EIA485/NeosKillDesktopTools) - Disables the desktop tool keybinds
