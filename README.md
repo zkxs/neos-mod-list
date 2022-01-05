@@ -6,6 +6,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [BetterLogixWires](https://github.com/EIA485/NeosBetterLogixWires) - Optimizes the rendering of logix wires
 - [KillLogSpam](https://github.com/EIA485/NeosKillLogSpam) - Kills the log spam normally caused by changing world configuration
 - [CacheGetClapped](https://github.com/dfgHiatus/CacheGetClapped) - Deletes cached files that have been unused for over 21 days
+- [IkCulling](https://github.com/KyuubiYoru/IkCulling) - Disables the IK of Users who are behind you or far away
 
 ## Visual Tweaks
 - [MotionBlurDisable](https://github.com/zkxs/MotionBlurDisable) - Disables motion blur for all of your cameras, including your view
