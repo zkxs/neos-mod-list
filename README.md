@@ -17,6 +17,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [AnyShaderAnywhere](https://github.com/EIA485/NeosAnyShaderAnywhere) - Lets you use any StaticShader in any Material
 - [AllShadersValid](https://github.com/EIA485/NeosAllShadersValid) - Lets you use non neos sanctioned shaders
 - [ShowHiddenCategory](https://github.com/EIA485/NeosShowHiddenCategory) - Shows the hidden category
+- [GenericTypeAdditions](https://github.com/badhaloninja/GenericTypeAdditions) - Adds more types to the GenericTypes lists
 
 ### Logix
 - [FixToString](https://github.com/EIA485/NeosFixToString) - Fixes the to string logix node
@@ -24,6 +25,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ExposeAllSyncMembers](https://github.com/EIA485/NeosExposeAllSyncMembers) - Exposes all SyncMembers on interfaces
 - [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) - Stops reference nodes from killing themselves
 - [DisableCustomConnectPoint](https://github.com/kazu0617/DisableCustomConnectPoint) - disables custom input/output attributes for LogiX nodes
+- [LogixUtils](https://github.com/badhaloninja/LogixUtils) - Tweaks some logix things
 
 ### Inspectors
 - [ShowDelegates](https://github.com/art0007i/ShowDelegates) - Shows delegates in inspectors
