@@ -42,6 +42,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NoEscape](https://github.com/zkxs/NoEscape) - Removes the emergency respawn gesture
 - [InspectorScroll](https://github.com/art0007i/InspectorScroll) - Allows you to scroll UIX panels (including inspectors) using the thumbstick / touchpad
 - [DesktopToolShortcutRemapper](https://github.com/zkxs/NeosDesktopToolShortcutRemapper) - Remaps `5` on desktop from ShapeTip to ComponentCloneTip
+- [NoUserspaceUndo](https://github.com/badhaloninja/NoUserspaceUndo) - Disables the UndoManager in userspace
 
 ## Misc
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
