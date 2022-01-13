@@ -59,6 +59,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [MessageCopy](https://github.com/rassi0429/MessageCopy) - Lets you copy msgs from dms
 - [SessionTweaks](https://github.com/kazu0617/SessionTweaks) - Adds buttons for session orb / copy session uri to your contact's tab
 - [3DDashOnScreen](https://github.com/rampa3/3DDashOnScreen) - replaces 2D overlay dash in Screen mode with the regular 3D one
+- [GetItemLink](https://github.com/EIA485/NeosGetItemLink) - Adds buttons to your inventory to copy an items cloud url and/or item link to your clipboard
 
 ## Asset Importing Tweaks
 - [GifImporter](https://github.com/kawaiiamber/GifImporter) - Allows you to import gif images
