@@ -65,6 +65,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [GifImporter](https://github.com/kawaiiamber/GifImporter) - Allows you to import gif images
 - [CustomVideoPlayers](https://github.com/art0007i/CustomVideoPlayers) - Lets you change your default video player
 - [PasteInvidious](https://github.com/art0007i/PasteInvidious) - Changes all pasted youtube links to [invidious](https://github.com/iv-org/invidious) links
+- [NeosPasteTweak](https://github.com/rassi0429/NeosPasteTweak) - Allows you to paste text and URL
 
 ## Hardware Integrations
 - [PimaxEyeTracker](https://github.com/dfgHiatus/NeosPimaxEyeTracker) - Integrates the Droolon Pi1 eye tracking module
