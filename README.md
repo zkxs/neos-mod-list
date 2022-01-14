@@ -11,7 +11,10 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 ## Visual Tweaks
 - [MotionBlurDisable](https://github.com/zkxs/MotionBlurDisable) - Disables motion blur for all of your cameras, including your view
 - [SsaoDisable](https://github.com/zkxs/SsaoDisable) - Disables SSAO for all of your cameras, including your view
+
+## General Ui Tweaks
 - [ReduceAnimation](https://github.com/EIA485/NeosReduceAnimation) - Reduce ui animations
+- [SquishPanels](https://github.com/RileyGuy/SquishPanels) - Modify the NeosPanels in Neos to squish in and out of existence
 
 ## Technical Tweaks
 - [ExportNeosToJson](https://github.com/zkxs/ExportNeosToJson) - Lets you export Neos objects as their native format
@@ -28,6 +31,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ReferenceNodeHotline](https://github.com/EIA485/NeosReferenceNodeHotline) - Stops reference nodes from killing themselves
 - [DisableCustomConnectPoint](https://github.com/kazu0617/DisableCustomConnectPoint) - disables custom input/output attributes for LogiX nodes
 - [LogixUtils](https://github.com/badhaloninja/LogixUtils) - Tweaks some logix things
+- [DarkLogiXBrowser](https://github.com/RileyGuy/DarkLogiXBrowser) - Make the logix node browser darkmode and single-click
 
 ### Inspectors
 - [ShowDelegates](https://github.com/art0007i/ShowDelegates) - Shows delegates in inspectors
