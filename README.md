@@ -45,6 +45,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [DesktopToolShortcutRemapper](https://github.com/zkxs/NeosDesktopToolShortcutRemapper) - Remaps `5` on desktop from ShapeTip to ComponentCloneTip
 - [NoUserspaceUndo](https://github.com/badhaloninja/NoUserspaceUndo) - Disables the UndoManager in userspace
 - [FingerQRCode](https://github.com/dfgHiatus/FingerQRCode) - Adds URL-QR Code reader functionality to the finger photo gesture
+- [NoLeftJump](https://github.com/EIA485/NeosNoLeftJump) - Disables your left thumbstick being used as a jump
 
 ## Misc
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
