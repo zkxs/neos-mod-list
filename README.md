@@ -50,7 +50,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NoUserspaceUndo](https://github.com/badhaloninja/NoUserspaceUndo) - Disables the UndoManager in userspace
 - [FingerQRCode](https://github.com/dfgHiatus/FingerQRCode) - Adds URL-QR Code reader functionality to the finger photo gesture
 - [NoLeftJump](https://github.com/EIA485/NeosNoLeftJump) - Disables your left thumbstick being used as a jump
-- [NoTankControls](https://github.com/furrz/NoTankControls) - Allows you to move with your joysticks while holding any too
+- [NoTankControls](https://github.com/furrz/NoTankControls) - Allows you to move with your joysticks while holding any tool
 
 ## Misc
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
