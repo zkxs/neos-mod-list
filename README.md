@@ -54,11 +54,14 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 
 ## Misc
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
-- [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
 - [NeosTrackerIdStabilizer](https://github.com/zkxs/NeosTrackerIdStabilizer) - Restores Vive tracker names to their old LHR-whatever behavior
 - [NoSteam](https://github.com/EIA485/NeosNoSteam) - Partially stops neos from connecting to steam
 - [ExposePatchedMethods](https://github.com/EIA485/NeosExposePatchedMethods) - Exposes what mods you have loaded to your userspace
+
+## Context Menu Tweaks
+- [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
 - [NeosNoResetScale](https://github.com/zkxs/NeosNoResetScale) - Removes the "Reset Scale" context menu function
+- [SaveToWhere](https://github.com/rassi0429/SaveToWhere) - Displays the save destination for the save to inventory button
 
 ## Dash Tweaks
 - [3DDashOnScreen](https://github.com/rampa3/3DDashOnScreen) - replaces 2D overlay dash in Screen mode with the regular 3D one
