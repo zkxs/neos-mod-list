@@ -48,6 +48,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [InspectorScroll](https://github.com/art0007i/InspectorScroll) - Allows you to scroll UIX panels (including inspectors) using the thumbstick / touchpad
 - [DesktopToolShortcutRemapper](https://github.com/zkxs/NeosDesktopToolShortcutRemapper) - Remaps `5` on desktop from ShapeTip to ComponentCloneTip
 - [NoUserspaceUndo](https://github.com/badhaloninja/NoUserspaceUndo) - Disables the UndoManager in userspace
+- [PrimaryHandLegacyWorldSwitcher](https://github.com/badhaloninja/PrimaryHandLegacyWorldSwitcher) - Changes the legacy world switcher to open depending on the primary hand setting
 - [FingerQRCode](https://github.com/dfgHiatus/FingerQRCode) - Adds URL-QR Code reader functionality to the finger photo gesture
 - [NoLeftJump](https://github.com/EIA485/NeosNoLeftJump) - Disables your left thumbstick being used as a jump
 - [NoTankControls](https://github.com/furrz/NoTankControls) - Allows you to move with your joysticks while holding any tool
