@@ -72,6 +72,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [MessageCopy](https://github.com/rassi0429/MessageCopy) - Lets you copy msgs from dms
 - [SessionTweaks](https://github.com/kazu0617/SessionTweaks) - Adds buttons for session orb / copy session uri to your contact's tab
 - [GetItemLink](https://github.com/EIA485/NeosGetItemLink) - Adds buttons to your inventory to copy an items cloud url and/or item link to your clipboard
+- [LoadAlready](https://github.com/RileyGuy/LoadAlready) - lets you double-click the loading indicator to remove it if the loading bug occurs
 
 ## Asset Importing Tweaks
 - [GifImporter](https://github.com/kawaiiamber/GifImporter) - Allows you to import gif images
