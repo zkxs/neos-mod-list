@@ -54,6 +54,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NoTankControls](https://github.com/furrz/NoTankControls) - Allows you to move with your joysticks while holding any tool
 
 ## Misc
+- [NeosBakery](https://github.com/Toxic-Cookie/NeosBakery) - A light baking solution for NeosVR
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
 - [NeosTrackerIdStabilizer](https://github.com/zkxs/NeosTrackerIdStabilizer) - Restores Vive tracker names to their old LHR-whatever behavior
 - [NoSteam](https://github.com/EIA485/NeosNoSteam) - Partially stops neos from connecting to steam
