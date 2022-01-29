@@ -53,6 +53,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [FingerQRCode](https://github.com/dfgHiatus/FingerQRCode) - Adds URL-QR Code reader functionality to the finger photo gesture
 - [NoLeftJump](https://github.com/EIA485/NeosNoLeftJump) - Disables your left thumbstick being used as a jump
 - [NoTankControls](https://github.com/furrz/NoTankControls) - Allows you to move with your joysticks while holding any tool
+- [PTTKeybinds](https://github.com/XDelta/NeosPTTKeybinds) - Disable Push-to-Talk keybinds like mouse5, V, or M. Includes config to adjust which are disabled
 
 ## Misc
 - [NeosBakery](https://github.com/Toxic-Cookie/NeosBakery) - A light baking solution for NeosVR
