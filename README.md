@@ -63,6 +63,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ExposePatchedMethods](https://github.com/EIA485/NeosExposePatchedMethods) - Exposes what mods you have loaded to your userspace
 - [LocalStreamVolume](https://github.com/Sox-NeosVR/LocalStreamVolume) -  Makes any audio stream you create have a local volume slider
 - [LocalVideoPlayerVolume](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume) - Automatically makes any video you import have a local volume slider
+- [DesktopPhisicalGrab](https://github.com/EIA485/NeosDesktopPhisicalGrab) - Enables phisical grabing in screen mode
 
 ## Context Menu Tweaks
 - [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
