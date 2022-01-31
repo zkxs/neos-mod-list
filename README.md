@@ -89,6 +89,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 
 ## Hardware Integrations
 - [PimaxEyeTracker](https://github.com/dfgHiatus/NeosPimaxEyeTracker) - Integrates the Droolon Pi1 eye tracking module
+- [Neos-WCFace-Integration](https://github.com/dfgHiatus/Neos-WCFace-Integration) - Integrates WCFace's screen-mode eye tracking
 
 ## Bug Workarounds
 - [FixUIXButton](https://github.com/art0007i/FixUIXButton) - Adds a button to RectTransforms that fixes broken uix
