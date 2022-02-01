@@ -89,6 +89,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 
 ## Hardware Integrations
 - [PimaxEyeTracker](https://github.com/dfgHiatus/NeosPimaxEyeTracker) - Integrates the Droolon Pi1 eye tracking module
+- [VarjoEyeTracking](https://github.com/dfgHiatus/NeosVarjoEyeTracking) - Integrates the Varjo Areo's Eye tracking into NeosVR
 - [Neos-WCFace-Integration](https://github.com/dfgHiatus/Neos-WCFace-Integration) - Integrates WCFace's screen-mode eye tracking
 
 ## Bug Workarounds
