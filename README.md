@@ -56,7 +56,6 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [PTTKeybinds](https://github.com/XDelta/NeosPTTKeybinds) - Disable Push-to-Talk keybinds like mouse5, V, or M. Includes config to adjust which are disabled
 
 ## Misc
-- [NeosBakery](https://github.com/Toxic-Cookie/NeosBakery) - A light baking solution for NeosVR
 - [VoiceVolumeOverride](https://github.com/zkxs/VoiceVolumeOverride) - Lets you adjust your microphone volume in-game
 - [NeosTrackerIdStabilizer](https://github.com/zkxs/NeosTrackerIdStabilizer) - Restores Vive tracker names to their old LHR-whatever behavior
 - [NoSteam](https://github.com/EIA485/NeosNoSteam) - Partially stops neos from connecting to steam
@@ -79,6 +78,10 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [SessionTweaks](https://github.com/kazu0617/SessionTweaks) - Adds buttons for session orb / copy session uri to your contact's tab
 - [GetItemLink](https://github.com/EIA485/NeosGetItemLink) - Adds buttons to your inventory to copy an items cloud url and/or item link to your clipboard
 - [LoadAlready](https://github.com/RileyGuy/LoadAlready) - lets you double-click the loading indicator to remove it if the loading bug occurs
+
+## Wizards
+- [NeosBakery](https://github.com/Toxic-Cookie/NeosBakery) - A light baking solution for NeosVR
+- [DynamicBoneChainWizardMod](https://github.com/dfgHiatus/DynamicBoneChainWizardMod) - Automatically sets up [Dynamic Bone Chains](https://wiki.neos.com/Dynamic_Bone_Chain/en) on avatars and validly named slots
 
 ## Asset Importing Tweaks
 - [GifImporter](https://github.com/kawaiiamber/GifImporter) - Allows you to import gif images
