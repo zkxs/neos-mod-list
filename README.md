@@ -104,6 +104,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [TemplateMod](https://github.com/EIA485/NeosTemplate) - A template mod repo
 
 ## Memes
+- [PrintImportReport](https://github.com/badhaloninja/PrintImportReport) - Makes Import Report spawn in the real world instead
 - [ToolshelfAnarchy](https://github.com/art0007i/ToolshelfAnarchy) - Allows you to take and put tools on other peoples toolshelves
 - [Cheese4All](https://github.com/EIA485/NeosCheese4All) - Enables the top secret cheese mode
 - [DeZomp4All](https://github.com/EIA485/NeosDeZomp4All) - Shows the hidden DeZomp
