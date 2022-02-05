@@ -41,6 +41,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [MoreReferenceProxies](https://github.com/EIA485/NeosMoreReferenceProxies) - Adds reference proxy sources to bag editors and list editors
 - [LocalSlotNames](https://github.com/EIA485/NeosLocalSlotNames) - Shows the local name of a slot in the hierarchy
 - [FieldExpressions](https://github.com/Toxic-Cookie/FieldExpressions) -  Allows you to use [CodingSeb's Expression Evaluator](https://github.com/codingseb/ExpressionEvaluator/wiki/Getting-Started) in inspector fields
+- [NonPersistentInspectors](https://github.com/XDelta/NeosNonPersistentInspectors) - Makes spawned inspectors set to nonpersistent by default
 
 ## Keybinds & Gestures
 - [KillDesktopTools](https://github.com/EIA485/NeosKillDesktopTools) - Disables the desktop tool keybinds
