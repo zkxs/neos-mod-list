@@ -72,6 +72,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [SaveToWhere](https://github.com/rassi0429/SaveToWhere) - Displays the save destination for the save to inventory button
 
 ## Dash Tweaks
+- [ModSettings](https://github.com/badhaloninja/NeosModSettings) - Adds a dash screen to edit mod configs
 - [3DDashOnScreen](https://github.com/rampa3/3DDashOnScreen) - replaces 2D overlay dash in Screen mode with the regular 3D one
 - [AllowMultipleAudioStreams](https://github.com/EIA485/NeosAllowMultipleAudioStreams) - Allows you to spawn multiple audio streams
 - [ContactsPublishedWorldsButton](https://github.com/badhaloninja/ContactsPublishedWorldsButton) - Adds a button to contacts to show their published worlds
