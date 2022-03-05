@@ -18,6 +18,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [SquishPanels](https://github.com/RileyGuy/SquishPanels) - Modify the NeosPanels in Neos to squish in and out of existence
 
 ## Technical Tweaks
+- [Inspectrum](https://github.com/RileyGuy/Inspectrum) - Makes the color of your inspector panels reflect your custom user color cloud variable
 - [ExportNeosToJson](https://github.com/zkxs/ExportNeosToJson) - Lets you export Neos objects as their native format
 - [ExtendCompatibility](https://github.com/EIA485/NeosExtendCompatibility) - Prevents crashing from invalid SyncMembers
 - [AnyShaderAnywhere](https://github.com/EIA485/NeosAnyShaderAnywhere) - Lets you use any StaticShader in any Material
