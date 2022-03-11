@@ -12,6 +12,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [MotionBlurDisable](https://github.com/zkxs/MotionBlurDisable) - Disables motion blur for all of your cameras, including your view
 - [SsaoDisable](https://github.com/zkxs/SsaoDisable) - Disables SSAO for all of your cameras, including your view
 - [PhotonicFreedom](https://github.com/RileyGuy/PhotonicFreedom) - Adds settings for Ambient Occlusion and Motion Blur
+- [Optizoom](https://github.com/badhaloninja/Optizoom) - Adds the ability to zoom with a keypress
 
 ## General Ui Tweaks
 - [ReduceAnimation](https://github.com/EIA485/NeosReduceAnimation) - Reduce ui animations
