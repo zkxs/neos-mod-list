@@ -13,6 +13,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [SsaoDisable](https://github.com/zkxs/SsaoDisable) - Disables SSAO for all of your cameras, including your view
 - [PhotonicFreedom](https://github.com/RileyGuy/PhotonicFreedom) - Adds settings for Ambient Occlusion and Motion Blur
 - [Optizoom](https://github.com/badhaloninja/Optizoom) - Adds the ability to zoom with a keypress
+- [ScreenmodeTweaks](https://github.com/ljoonal/Neos-Mods#screenmode-tweaks) - Forces vsync to be disabled
 
 ## General Ui Tweaks
 - [ReduceAnimation](https://github.com/EIA485/NeosReduceAnimation) - Reduce ui animations
@@ -66,7 +67,8 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ExposePatchedMethods](https://github.com/EIA485/NeosExposePatchedMethods) - Exposes what mods you have loaded to your userspace
 - [LocalStreamVolume](https://github.com/Sox-NeosVR/LocalStreamVolume) -  Makes any audio stream you create have a local volume slider
 - [LocalVideoPlayerVolume](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume) - Automatically makes any video you import have a local volume slider
-- [DesktopPhisicalGrab](https://github.com/EIA485/NeosDesktopPhisicalGrab) - Enables phisical grabing in screen mode
+- [DesktopPhisicalGrab](https://github.com/EIA485/NeosDesktopPhisicalGrab) - Enables physical grabbing in screen mode
+- [PrivacyShield](https://github.com/ljoonal/Neos-Mods#privacy-shield) - Some privacy enhancements like requesting web permission for anything outside of Neos APIs, not just web requests. Also timezone and FPS spoofing.
 
 ## Context Menu Tweaks
 - [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
@@ -105,6 +107,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) - Force libVLC to prevent crashes in Proton
 - [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) - Disable libVLC to prevent crashes in Windows
 - [mixNmatch_lipsNmouth](https://github.com/dfgHiatus/mixNmatch_lipsNmouth) - Allows for differing makes and models of Eye and Face Trackers to operate together
+- [LinuxFixes](https://github.com/ljoonal/Neos-Mods#linux-fixes) Linux fixes for item rotation not working properly, centers mouse on context menu open and un-reverses the scroll wheel direction
 
 ## For Mod Developers
 - [Generalized-Neos-EyeFace-API](https://github.com/dfgHiatus/Generalized-Neos-EyeFace-API) - A Template for making mods that integrate eye/mouth tracking
