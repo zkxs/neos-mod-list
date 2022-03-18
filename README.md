@@ -93,6 +93,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 
 ## Asset Importing Tweaks
 - [GifImporter](https://github.com/kawaiiamber/GifImporter) - Allows you to import gif images
+  - [GifImporter (arti's fork)](https://github.com/art0007i/GifImporter) - GifImporter but it tries to fit the sprite sheets into a square resolution, it will sometimes create redundant empty frames at the end of the gif
 - [CustomVideoPlayers](https://github.com/art0007i/CustomVideoPlayers) - Lets you change your default video player
 - [PasteInvidious](https://github.com/art0007i/PasteInvidious) - Changes all pasted youtube links to [invidious](https://github.com/iv-org/invidious) links
 - [NeosPasteTweak](https://github.com/rassi0429/NeosPasteTweak) - Allows you to paste text and URL
