@@ -53,6 +53,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NoEscape](https://github.com/zkxs/NoEscape) - Removes the emergency respawn gesture
 - [InspectorScroll](https://github.com/art0007i/InspectorScroll) - Allows you to scroll UIX panels (including inspectors) using the thumbstick / touchpad
 - [DesktopToolShortcutRemapper](https://github.com/zkxs/NeosDesktopToolShortcutRemapper) - Remaps `5` on desktop from ShapeTip to ComponentCloneTip
+  - [DesktopToolShortcutRemapper (kazu's fork)](https://github.com/kazu0617/DesktopToolShortcutRemapper) - Fully configurable number key bindings for spawning arbitrary tools
 - [NoUserspaceUndo](https://github.com/badhaloninja/NoUserspaceUndo) - Disables the UndoManager in userspace
 - [PrimaryHandLegacyWorldSwitcher](https://github.com/badhaloninja/PrimaryHandLegacyWorldSwitcher) - Changes the legacy world switcher to open depending on the primary hand setting
 - [FingerQRCode](https://github.com/dfgHiatus/FingerQRCode) - Adds URL-QR Code reader functionality to the finger photo gesture
