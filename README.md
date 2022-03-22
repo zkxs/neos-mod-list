@@ -111,7 +111,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) - Force libVLC to prevent crashes in Proton
 - [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) - Disable libVLC to prevent crashes in Windows
 - [mixNmatch_lipsNmouth](https://github.com/dfgHiatus/mixNmatch_lipsNmouth) - Allows for differing makes and models of Eye and Face Trackers to operate together
-- [LinuxFixes](https://github.com/ljoonal/Neos-Mods#linux-fixes) Linux fixes for item rotation not working properly, centers mouse on context menu open and un-reverses the scroll wheel direction
+- [LinuxFixes](https://github.com/ljoonal/Neos-Mods#linux-fixes) - Linux fixes for item rotation not working properly, centers mouse on context menu open and un-reverses the scroll wheel direction
 
 ## For Mod Developers
 - [Generalized-Neos-EyeFace-API](https://github.com/dfgHiatus/Generalized-Neos-EyeFace-API) - A Template for making mods that integrate eye/mouth tracking
