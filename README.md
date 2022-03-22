@@ -70,6 +70,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [LocalVideoPlayerVolume](https://github.com/Sox-NeosVR/LocalVideoPlayerVolume) - Automatically makes any video you import have a local volume slider
 - [DesktopPhisicalGrab](https://github.com/EIA485/NeosDesktopPhisicalGrab) - Enables physical grabbing in screen mode
 - [PrivacyShield](https://github.com/ljoonal/Neos-Mods#privacy-shield) - Some privacy enhancements like requesting web permission for anything outside of Neos APIs, not just web requests. Also timezone and FPS spoofing.
+- [NeosPlatformSpoof](https://github.com/zkxs/NeosPlatformSpoof) - Lets you change your displayed platform and show some Linux pride even on Proton
 
 ## Context Menu Tweaks
 - [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
