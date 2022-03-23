@@ -27,6 +27,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [AllShadersValid](https://github.com/EIA485/NeosAllShadersValid) - Lets you use non neos sanctioned shaders
 - [ShowHiddenCategory](https://github.com/EIA485/NeosShowHiddenCategory) - Shows the hidden category
 - [GenericTypeAdditions](https://github.com/badhaloninja/GenericTypeAdditions) - Adds more types to the GenericTypes lists
+- [FastFourierFun](https://github.com/RileyGuy/FastFourierFun) - Gives you FFT values out of an audio clip
 
 ### Logix
 - [FixToString](https://github.com/EIA485/NeosFixToString) - Fixes the to string logix node
