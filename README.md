@@ -84,6 +84,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [AllowMultipleAudioStreams](https://github.com/EIA485/NeosAllowMultipleAudioStreams) - Allows you to spawn multiple audio streams
 - [ContactsPublishedWorldsButton](https://github.com/badhaloninja/ContactsPublishedWorldsButton) - Adds a button to contacts to show their published worlds
 - [NeosContactsSort](https://github.com/zkxs/NeosContactsSort) - Sorts contacts Better™
+  - [NeosContactsSort (eia's fork)](https://github.com/EIA485/NeosContactsSort) - NeosContactsSort but with a different sorting order
 - [MessageCopy](https://github.com/rassi0429/MessageCopy) - Lets you copy msgs from dms
 - [SessionTweaks](https://github.com/kazu0617/SessionTweaks) - Adds buttons for session orb / copy session uri to your contact's tab
 - [GetItemLink](https://github.com/EIA485/NeosGetItemLink) - Adds buttons to your inventory to copy an items cloud url and/or item link to your clipboard
