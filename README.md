@@ -89,6 +89,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [GetItemLink](https://github.com/EIA485/NeosGetItemLink) - Adds buttons to your inventory to copy an items cloud url and/or item link to your clipboard
 - [LoadAlready](https://github.com/RileyGuy/LoadAlready) - Lets you double-click the loading indicator to remove it if the loading bug occurs
 - [SpeedyURLs](https://github.com/dfgHiatus/SpeedyURLs) - Removes the 5-second cool-down on hyperlinks
+- [DesktopLoadingIndicator](https://github.com/badhaloninja/DesktopLoadingIndicator) - Adds desktop support for the loading indicator
 
 ## Wizards
 - [NeosBakery](https://github.com/Toxic-Cookie/NeosBakery) - A light baking solution for NeosVR
