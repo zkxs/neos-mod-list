@@ -112,7 +112,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 
 ## Bug Workarounds
 - [FixUIXButton](https://github.com/art0007i/FixUIXButton) - Adds a button to RectTransforms that fixes broken uix
-- [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) - Force libVLC to prevent crashes in Proton
+- [NeosVideoPlayerFix](https://github.com/Frozenreflex/NeosVideoPlayerFix) - Force libVLC to prevent crashes in Proton, and fix video players on Linux Native
 - [DisableLibVLC](https://github.com/KyuubiYoru/DisableLibVLC) - Disable libVLC to prevent crashes in Windows
 - [mixNmatch_lipsNmouth](https://github.com/dfgHiatus/mixNmatch_lipsNmouth) - Allows for differing makes and models of Eye and Face Trackers to operate together
 - [LinuxFixes](https://github.com/ljoonal/Neos-Mods#linux-fixes) - Linux fixes for item rotation not working properly, centers mouse on context menu open and un-reverses the scroll wheel direction
