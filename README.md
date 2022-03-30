@@ -37,6 +37,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [DisableCustomConnectPoint](https://github.com/kazu0617/DisableCustomConnectPoint) - disables custom input/output attributes for LogiX nodes
 - [LogixUtils](https://github.com/badhaloninja/LogixUtils) - Tweaks some logix things
 - [DarkLogiXBrowser](https://github.com/RileyGuy/DarkLogiXBrowser) - Make the logix node browser darkmode and single-click
+- [Nodentify](https://github.com/RileyGuy/Nodentify) - Allows commenting on LogiX nodes and opening what reference arrows reference
 
 ### Inspectors
 - [ShowDelegates](https://github.com/art0007i/ShowDelegates) - Shows delegates in inspectors
