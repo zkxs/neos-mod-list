@@ -40,6 +40,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [Nodentify](https://github.com/RileyGuy/Nodentify) - Allows commenting on LogiX nodes and opening what reference arrows reference
 
 ### Inspectors
+- [Inspector-Customizer](https://github.com/LeCloutPanda/Inspector-Customizer) - Allows customization of coloring for both the Inspector and Logix browser
 - [ShowDelegates](https://github.com/art0007i/ShowDelegates) - Shows delegates in inspectors
 - [ShowDriveSource](https://github.com/art0007i/ShowDriveSource) - Allows viewing what a field is driven by
 - [ColorDrop](https://github.com/art0007i/ColorDrop) - Makes it so you can grab and drop colors
