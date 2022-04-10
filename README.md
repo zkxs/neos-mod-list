@@ -78,6 +78,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
 - [NeosNoResetScale](https://github.com/zkxs/NeosNoResetScale) - Removes the "Reset Scale" context menu function
 - [SaveToWhere](https://github.com/rassi0429/SaveToWhere) - Displays the save destination for the save to inventory button
+- [Gizmos Be Gone](https://github.com/LeCloutPanda/Gizmos-Be-Gone) - Adds a custom Context menu item for the Dev tip to clear only your own gizmos
 
 ## Dash Tweaks
 - [ModSettings](https://github.com/badhaloninja/NeosModSettings) - Adds a dash screen to edit mod configs
