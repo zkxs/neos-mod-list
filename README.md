@@ -40,6 +40,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [LogixUtils](https://github.com/badhaloninja/LogixUtils) - Tweaks some logix things
 - [DarkLogiXBrowser](https://github.com/RileyGuy/DarkLogiXBrowser) - Make the logix node browser darkmode and single-click
 - [Nodentify](https://github.com/RileyGuy/Nodentify) - Allows commenting on LogiX nodes and opening what reference arrows reference
+- [Proxify](https://github.com/RileyGuy/Proxify) - Adds reference proxies for the fields on LogiX registers
 
 ### Inspectors
 - [Inspector-Customizer](https://github.com/LeCloutPanda/Inspector-Customizer) - Allows customization of coloring for both the Inspector and Logix browser
