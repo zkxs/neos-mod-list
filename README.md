@@ -41,6 +41,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [DarkLogiXBrowser](https://github.com/RileyGuy/DarkLogiXBrowser) - Make the logix node browser darkmode and single-click
 - [Nodentify](https://github.com/RileyGuy/Nodentify) - Allows commenting on LogiX nodes and opening what reference arrows reference
 - [Proxify](https://github.com/RileyGuy/Proxify) - Adds reference proxies for the fields on LogiX registers
+- [LocalLogixRegisters](https://github.com/Banane9/NeosLocalLogixRegisters) - Adds the ability to create LogiX registers and boolean latches with localized values. This can be toggled on and off with a new context menu entry while having the tool equipped.
 
 ### Inspectors
 - [Inspector-Customizer](https://github.com/LeCloutPanda/Inspector-Customizer) - Allows customization of coloring for both the Inspector and Logix browser
