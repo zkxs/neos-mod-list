@@ -30,6 +30,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [ShowHiddenCategory](https://github.com/EIA485/NeosShowHiddenCategory) - Shows the hidden category
 - [GenericTypeAdditions](https://github.com/badhaloninja/GenericTypeAdditions) - Adds more types to the GenericTypes lists
 - [FastFourierFun](https://github.com/RileyGuy/FastFourierFun) - Gives you FFT values out of an audio clip
+- [RenameDirectlyLinkedDynVars](https://github.com/Banane9/NeosRenameDirectlyLinkedDynVars) - Sllows changing any directly linked dynamic variables when renaming the Dynamic Variable Space.\\ Optionally, LogiX string inputs matching `OldName/.*` can be changed too
 
 ### Logix
 - [FixToString](https://github.com/EIA485/NeosFixToString) - Fixes the to string logix node
