@@ -64,7 +64,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [NoUserspaceUndo](https://github.com/badhaloninja/NoUserspaceUndo) - Disables the UndoManager in userspace
 - [PrimaryHandLegacyWorldSwitcher](https://github.com/badhaloninja/PrimaryHandLegacyWorldSwitcher) - Changes the legacy world switcher to open depending on the primary hand setting
 - [FingerQRCode](https://github.com/dfgHiatus/FingerQRCode) - Adds URL-QR Code reader functionality to the finger photo gesture
-- [NoLeftJump](https://github.com/EIA485/NeosNoLeftJump) - Disables your left thumbstick being used as a jump
+- [MaybeJump](https://github.com/Banane9/NeosMaybeJump) - Allows you to configure on which sides the thumbstick will be used as jump
 - [NoTankControls](https://github.com/furrz/NoTankControls) - Allows you to move with your joysticks while holding any tool
 - [PTTKeybinds](https://github.com/XDelta/NeosPTTKeybinds) - Disable Push-to-Talk keybinds like mouse5, V, or M. Includes config to adjust which are disabled
 
