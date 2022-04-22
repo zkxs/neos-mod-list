@@ -78,6 +78,7 @@ A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. I
 - [DesktopPhisicalGrab](https://github.com/EIA485/NeosDesktopPhisicalGrab) - Enables physical grabbing in screen mode
 - [PrivacyShield](https://github.com/ljoonal/Neos-Mods#privacy-shield) - Some privacy enhancements like requesting web permission for anything outside of Neos APIs, not just web requests. Also timezone and FPS spoofing.
 - [NeosPlatformSpoof](https://github.com/zkxs/NeosPlatformSpoof) - Lets you change your displayed platform and show some Linux pride even on Proton
+- [PacifistAprilFoolsExplosion](https://github.com/Banane9/NeosPacifistAprilFoolsExplosion) - Allows you to individually disable elements of ViolentAprilFoolsExplosion
 
 ## Context Menu Tweaks
 - [NeosLocomotionRename](https://github.com/zkxs/NeosLocomotionRename) - Lets you rename your locomotion modules
