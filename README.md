@@ -1,6 +1,9 @@
+# This page is no longer receiving updates!
+**The mod list has been migrated to [neosmodloader.com](https://www.neosmodloader.com/mods.html).** The new list is automatically generated from a machine-readable JSON file, which is going to have some positive effects for other modding applications in the future.
+
 # Neos Mods
 
-**This list is currently being migrated to [here](https://github.com/neos-modding-group/neos-mod-manifest/blob/master/README.md#mods).** Eventually this list will be archived and will no longer receive updates.
+This was last updated April 22, 2022.
 
 A curated list of [NeosModLoader](https://github.com/zkxs/NeosModLoader) mods. If you have more items for the list, either reach out to me or open a PR. If you want to get update notifications join [our Discord](https://discord.gg/vCDJK9xyvm).
 
